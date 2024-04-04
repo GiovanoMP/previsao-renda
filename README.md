@@ -2,6 +2,9 @@
 
 Este projeto visa analisar e prever a renda dos clientes com base em um conjunto de variáveis socioeconômicas. Utilizamos técnicas de análise exploratória de dados (AED), pré-processamento e modelagem preditiva para entender melhor as características dos dados e construir modelos de regressão capazes de estimar a renda.
 
+## Demonstração ao Vivo
+Visite o [aplicativo de previsão de renda](https://previsao-renda-gmp.streamlit.app/) para ver uma demonstração ao vivo.
+
 ## Tecnologias Utilizadas
 - Python
 - Pandas para manipulação de dados
